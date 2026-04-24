@@ -1,0 +1,4 @@
+__pycache/
+token.json
+.shop_env
+db.sqlite3
